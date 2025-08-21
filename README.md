@@ -16,8 +16,12 @@
 
 | Types    | Links |
 | -------- | ------- |
-| Recreate | <a href="https://github.com/LondheShubham153/kubestarter/tree/main/Deployment_Strategies/Recreate-deployment">Click me</a>     |
-| Rolling Update | <a href="https://github.com/LondheShubham153/kubestarter/tree/main/Deployment_Strategies/Rolling-Update-Deployment">Click me</a>     |
-| Blue-green | <a href="https://github.com/LondheShubham153/kubestarter/tree/main/Deployment_Strategies/Blue-green-deployment">Click me</a>     |
-| Canary | <a href="https://github.com/LondheShubham153/kubestarter/tree/main/Deployment_Strategies/Simple-Canary-Example">Click me</a>     |
-# K8s_Deployment_Strategies
+| Recreate | <a href="https://github.com/Gaurav10111/K8s_Deployment_Strategies/tree/main/Recreate-deployment">Click me</a>     |
+| Rolling Update | <a href="https://github.com/Gaurav10111/K8s_Deployment_Strategies/tree/main/Rolling-Update-Deployment">Click me</a>     |
+| Blue-green | <a href="https://github.com/Gaurav10111/K8s_Deployment_Strategies/tree/main/Blue-green-deployment">Click me</a>     |
+| Canary | <a href="https://github.com/Gaurav10111/K8s_Deployment_Strategies/tree/main/Simple-Canary-Example">Click me</a>     |
+
+## Acknowledgement 🙌
+
+Special thanks to [@LondheShubham153](https://github.com/LondheShubham153) for his wonderful explanation on **Kubernetes Deployment Strategies** and for maintaining a well-structured repository with detailed insights.  
+Your contributions to the DevOps community are truly valuable! 🚀
